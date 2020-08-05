@@ -4,8 +4,8 @@
 # Oi Galera, Sou o Derrick Cantrel 👋
 
 Amo trabalhar com tecnologia e criar soluções inspiradoras.
-Sou Graduando em Sistemas de Informação pela Uni7 :mortar_board:
-Atualmente estou estudando uma *Stack JavaScript*, **meu principal foco
+Sou Graduando em Sistemas de Informação pela Uni7 :mortar_board: :rocket:
+<br/> Atualmente estou estudando uma *Stack JavaScript*, **meu principal foco
 é criar soluções web e mobile utilizando essas tecnologias.** :zap:
 
 <br/> :purple_heart: &nbsp; Quero colaborar no Desenvolvimento Web e Mobile
