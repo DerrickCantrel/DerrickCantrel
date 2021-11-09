@@ -1,4 +1,4 @@
-<img width=auto src="https://media-exp1.licdn.com/dms/image/C4D16AQE7yeVK1WCxBA/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=1PAMOWQ9uJ1YYMyxUjPP8ik4gKWxfiQ38nuy1cmBJRM">
+<img width=auto src="https://drive.google.com/file/d/1zVxquNDIso4dz9vetoLU_8Zt-IUblvzf/view?usp=sharing">
 
 # Oi Galera, Sou o Derrick Cantrel 👋
 
