@@ -11,5 +11,5 @@ Sou Graduando em Sistemas de Informação pela Uni7 :mortar_board: :rocket:
 <br/> :mailbox_with_no_mail: &nbsp; [Pode entrar em Contato via Linkedin!](https://www.linkedin.com/in/derrick-cantrel-49541516b/)
 
 ## Linguagens e Ferramentas ⚙
-[![DerrickCantrel GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickcantrel)](https://github-readme-stats.vercel.app/api?username=derrickcantrel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickcantrel&layout=compact)](https://github.com/derrickcantrel/github-readme-stats)
+[![DerrickCantrel GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickcantrel)](https://github-readme-stats.vercel.app/api?username=derrickcantrel)
