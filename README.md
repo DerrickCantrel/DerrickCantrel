@@ -12,4 +12,3 @@ Sou Graduando em Sistemas de Informação pela Uni7 :mortar_board: :rocket:
 
 ## Linguagens e Ferramentas ⚙
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derrickcantrel&layout=compact)](https://github.com/derrickcantrel/github-readme-stats)
-[![DerrickCantrel GitHub stats](https://github-readme-stats.vercel.app/api?username=derrickcantrel)](https://github-readme-stats.vercel.app/api?username=derrickcantrel)
